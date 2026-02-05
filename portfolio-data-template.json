@@ -1,0 +1,31 @@
+{
+  "lastUpdated": "2026-02-05T12:00:00.000Z",
+  "allData": [
+    {
+      "title": "Example Stock",
+      "ticker": "EXAMPLE",
+      "isin": "GB0000000000",
+      "type": "TRADE",
+      "timestamp": "2026-01-01T10:00:00.000Z",
+      "quantity": 10,
+      "buySell": "BUY",
+      "pricePerShare": 100.50,
+      "totalAmount": 1005.00,
+      "currency": "GBP",
+      "venue": "XLON",
+      "orderId": "ORDER123456",
+      "dividendAmount": 0
+    }
+  ],
+  "holdings": [
+    {
+      "ticker": "EXAMPLE",
+      "title": "Example Stock",
+      "isin": "GB0000000000",
+      "shares": 10,
+      "totalInvested": 1005.00,
+      "avgPrice": 100.50,
+      "trades": []
+    }
+  ]
+}
